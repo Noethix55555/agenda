@@ -1,5 +1,11 @@
 # agendash
 
+## 8.2.4
+
+### Patch Changes
+
+- b9c4768: Replace deprecated dependency `koa-router` with `@koa/router`
+
 ## 8.2.3
 
 ### Patch Changes
